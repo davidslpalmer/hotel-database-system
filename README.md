@@ -36,4 +36,4 @@ The logical schemas were instantiated into a physical **SQLite** database. Test 
 * **Query Language:** SQL
 
 ---
-*Project developed by Adam Larsson, David Palmér, and Filip Sundberg*
+*Project developed by David Palmér, Adam Larsson and Filip Sundberg*
